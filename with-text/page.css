@@ -20,7 +20,6 @@ p.wave::selection {
 }
 p.wave {
     position: absolute;
-    border-radius: 100px;
     overflow: hidden;
     font-size: 4em;
     text-decoration: underline;
