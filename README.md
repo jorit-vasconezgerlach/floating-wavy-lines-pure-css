@@ -1,7 +1,7 @@
 # Floating Wavy Lines Pure CSS
 
 ## General Information
-**Preview** [open](https://jorit.vasconezgerlach.de/host/floating-wavy-lines-pure-css-git/)[with text](https://jorit.vasconezgerlach.de/host/floating-wavy-lines-pure-css-git/with-text/)\
+**Preview** [open](https://jorit.vasconezgerlach.de/host/floating-wavy-lines-pure-css-git/) ([with text](https://jorit.vasconezgerlach.de/host/floating-wavy-lines-pure-css-git/with-text/))\
 **Licence** Free to copy, edit and share\
 **Languages** CSS, HTML
 
