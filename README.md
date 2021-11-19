@@ -13,4 +13,4 @@ https://user-images.githubusercontent.com/88643432/132955649-df5dea78-9c2f-4818-
 Jorit Vásconez Gerlach\
 🌐 [jorit.vasconezgerlach.de](https://jorit.vasconezgerlach.de)\
 📧 [jorit@vasconezgerlach.de](mailto:jorit@vasconezgerlach.de)\
-🔗 [social.vasconezgerlach.de](https://social.vasconezgerlach.de)
+**Preview** [open](https://jorit.vasconezgerlach.de/host/youtube-logo-pure-css-git/)
